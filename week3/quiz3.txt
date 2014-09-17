@@ -32,4 +32,8 @@ There will be an object names 'mtcars' in your workspace. How can one calculate 
 
 
 5 If you run debug(ls), what happens when you next call the 'ls' function?
+Execution of 'ls' will suspend at the beginning of the function and you will be in the browser. 
+What happens when you next call the 'ls' function?
+
 Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.
+
